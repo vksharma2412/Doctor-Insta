@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#4F6D7A</color>
+    <color name="red">#970D19</color>
+    <color name="sentMsgBgColor">#F6F7F9</color>
+    <color name="receivedMsgBgColor">#0B61AF</color>
+    <color name="headerColor">#C94B4F</color>
+    <color name="colorAccent">#FFFFFF</color>
+     <color name="colorPrimary">#C94B4F</color>
+
+    
+
+
+
+</resources>

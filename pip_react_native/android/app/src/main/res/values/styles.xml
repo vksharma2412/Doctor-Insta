@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ApplozicThemeCustom" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!--To change the toolbar color change the colorPrimary  -->
+        <item name="colorPrimary">@color/red</item>
+
+        <!-- To change the status bar  color change the color of colorPrimaryDark -->
+        <item name="colorPrimaryDark">@color/red</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated which is used to tint widgets -->
+        <item name="colorAccent">@color/red</item>
+
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+</resources>
